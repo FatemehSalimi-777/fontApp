@@ -1,0 +1,7 @@
+{
+  "name": "fontApp2",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
